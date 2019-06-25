@@ -16,18 +16,18 @@ cam = cv2.VideoCapture(0)
 # plt.show()
 
 
-def predict():
+def predict_cv():
     while True:
         prev_label = ""
         _, img = cam.read()
-        img = cv2.cvtColor(img,cv2.COLOR_BGR2RGB)
+        # img = cv2.cvtColor(img,cv2.COLOR_BGR2RGB)
         im_pil = Image.fromarray(img)
         prob, out = predict(im_pil, model)
     #     if str(prev_label) != str(out) and prob > 0.6:
     #             os.system("clear")
     #             print(out)
         cv2.imshow("Image", img)
-        plt.barh(['spill', 'nospill'], [23,45])
+        # plt.barh(['spill', 'nospill'], [23,45])
         print(f'Probability: {prob}  Class: {out}')
         if cv2.waitKey(1) == 27:
             break
@@ -35,4 +35,4 @@ def predict():
 
 
 if __name__ == "__main__":
-    predict()
+    predict_cv()

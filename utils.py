@@ -9,7 +9,7 @@ import matplotlib.pyplot as plt
 from collections import OrderedDict
 from torchvision import datasets, transforms, models
 
-SAVE_PATH = 'model/model.pth'
+SAVE_PATH = 'model/model_90_imgs.pth'
 class_names = ['nospill', 'spill']
 
 def load_ckpt(ckpt_path):
@@ -37,7 +37,7 @@ def load_ckpt(ckpt_path):
 model = load_ckpt(SAVE_PATH)
 
 test_transforms = transforms.Compose([transforms.Resize(224),
-                                    transforms.RandomCrop(224),
+                                    transforms.CenterCrop(224),
                                     transforms.ToTensor(),
                                     transforms.Normalize([0.485, 0.456, 0.406],
                                                         [0.229, 0.224, 0.225])])
@@ -55,7 +55,8 @@ def predict(image_path, model):
     model.eval()
     img_pros = process_image(image_path)
     img_pros = img_pros.view(1,3,224,224)
-    output = model(img_pros)
+    with torch.no_grad():
+        output = model(img_pros)
     # probability of each classs
     ps = torch.exp(output)
     top_p, top_class = ps.topk(1, dim=1)
