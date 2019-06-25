@@ -1,1 +1,734 @@
-[{"annotations": [{"xmin": 629, "ymin": 170, "xmax": 934, "ymax": 444}], "class": "spill", "file": "cup_data/spill/2019-06-11-171929_1.jpg"}, {"annotations": [{"xmin": 274, "ymin": 70, "xmax": 594, "ymax": 362}], "class": "spill", "file": "cup_data/spill/2019-06-11-171929_19.jpg"}, {"annotations": [{"xmin": 720, "ymin": 70, "xmax": 1059, "ymax": 375}], "class": "spill", "file": "cup_data/spill/2019-06-11-171929_26.jpg"}, {"annotations": [{"xmin": 363, "ymin": 53, "xmax": 750, "ymax": 371}], "class": "spill", "file": "cup_data/spill/2019-06-11-171929_9.jpg"}, {"annotations": [{"xmin": 444, "ymin": 75, "xmax": 807, "ymax": 367}], "class": "spill", "file": "cup_data/spill/2019-06-11-171929_13.jpg"}, {"annotations": [{"xmin": 407, "ymin": 186, "xmax": 730, "ymax": 491}], "class": "spill", "file": "cup_data/spill/2019-06-11-171929_4.jpg"}, {"annotations": [{"xmin": 693, "ymin": 110, "xmax": 1037, "ymax": 351}], "class": "spill", "file": "cup_data/spill/2019-06-11-171929_12.jpg"}, {"annotations": [{"xmin": 237, "ymin": 58, "xmax": 617, "ymax": 379}], "class": "spill", "file": "cup_data/spill/2019-06-11-171929_25.jpg"}, {"annotations": [{"xmin": 611, "ymin": 29, "xmax": 953, "ymax": 296}], "class": "spill", "file": "cup_data/spill/2019-06-11-171929_18.jpg"}, {"annotations": [{"xmin": 594, "ymin": 92, "xmax": 988, "ymax": 366}], "class": "spill", "file": "cup_data/spill/2019-06-11-171929_20.jpg"}, {"annotations": [{"xmin": 515, "ymin": 135, "xmax": 767, "ymax": 475}], "class": "spill", "file": "cup_data/spill/2019-06-11-171929_16.jpg"}, {"annotations": [{"xmin": 615, "ymin": 100, "xmax": 967, "ymax": 387}], "class": "spill", "file": "cup_data/spill/2019-06-11-171929_29.jpg"}, {"annotations": [{"xmin": 411, "ymin": 180, "xmax": 738, "ymax": 459}], "class": "spill", "file": "cup_data/spill/2019-06-11-171929_3.jpg"}, {"annotations": [{"xmin": 440, "ymin": 56, "xmax": 783, "ymax": 329}], "class": "spill", "file": "cup_data/spill/2019-06-11-171929_24.jpg"}, {"annotations": [{"xmin": 224, "ymin": 41, "xmax": 592, "ymax": 397}], "class": "spill", "file": "cup_data/spill/2019-06-11-171929_28.jpg"}, {"annotations": [{"xmin": 527, "ymin": 144, "xmax": 786, "ymax": 481}], "class": "spill", "file": "cup_data/spill/2019-06-11-171929_15.jpg"}, {"annotations": [{"xmin": 659, "ymin": 154, "xmax": 993, "ymax": 391}], "class": "spill", "file": "cup_data/spill/2019-06-11-171929_14.jpg"}, {"annotations": [{"xmin": 281, "ymin": 133, "xmax": 644, "ymax": 367}], "class": "spill", "file": "cup_data/spill/2019-06-11-171929_11.jpg"}, {"annotations": [{"xmin": 637, "ymin": 165, "xmax": 1013, "ymax": 373}], "class": "spill", "file": "cup_data/spill/2019-06-11-171929_10.jpg"}, {"annotations": [{"xmin": 584, "ymin": 90, "xmax": 881, "ymax": 369}], "class": "spill", "file": "cup_data/spill/2019-06-11-171929_7.jpg"}, {"annotations": [{"xmin": 606, "ymin": 52, "xmax": 913, "ymax": 307}], "class": "spill", "file": "cup_data/spill/2019-06-11-171929_21.jpg"}, {"annotations": [{"xmin": 441, "ymin": 159, "xmax": 754, "ymax": 438}], "class": "spill", "file": "cup_data/spill/2019-06-11-171929_2.jpg"}, {"annotations": [{"xmin": 485, "ymin": 16, "xmax": 736, "ymax": 233}], "class": "spill", "file": "cup_data/spill/2019-06-11-171929_6.jpg"}, {"annotations": [{"xmin": 680, "ymin": 73, "xmax": 1028, "ymax": 317}], "class": "spill", "file": "cup_data/spill/2019-06-11-171929_30.jpg"}, {"annotations": [{"xmin": 518, "ymin": 121, "xmax": 844, "ymax": 396}], "class": "spill", "file": "cup_data/spill/2019-06-11-171929_17.jpg"}, {"annotations": [{"xmin": 194, "ymin": 111, "xmax": 530, "ymax": 381}], "class": "spill", "file": "cup_data/spill/2019-06-11-171929_8.jpg"}, {"annotations": [{"xmin": 126, "ymin": 28, "xmax": 471, "ymax": 366}], "class": "spill", "file": "cup_data/spill/2019-06-11-171929_22.jpg"}, {"annotations": [{"xmin": 388, "ymin": 246, "xmax": 728, "ymax": 542}], "class": "spill", "file": "cup_data/spill/2019-06-11-171929_5.jpg"}, {"annotations": [{"xmin": 450, "ymin": 52, "xmax": 771, "ymax": 357}], "class": "spill", "file": "cup_data/spill/2019-06-11-171929_27.jpg"}, {"annotations": [{"xmin": 644, "ymin": 72, "xmax": 1064, "ymax": 349}], "class": "spill", "file": "cup_data/spill/2019-06-11-171929_23.jpg"}, {"annotations": [{"xmin": 402, "ymin": 129, "xmax": 682, "ymax": 487}], "class": "nospill", "file": "cup_data/nospill/2019-06-11-171840_22.jpg"}, {"annotations": [{"xmin": 514, "ymin": 183, "xmax": 817, "ymax": 557}], "class": "nospill", "file": "cup_data/nospill/2019-06-11-171840_25.jpg"}, {"annotations": [{"xmin": 609, "ymin": 52, "xmax": 880, "ymax": 441}], "class": "nospill", "file": "cup_data/nospill/2019-06-11-171840_16.jpg"}, {"annotations": [{"xmin": 573, "ymin": 161, "xmax": 886, "ymax": 587}], "class": "nospill", "file": "cup_data/nospill/2019-06-11-171840_2.jpg"}, {"annotations": [{"xmin": 335, "ymin": 103, "xmax": 623, "ymax": 483}], "class": "nospill", "file": "cup_data/nospill/2019-06-11-171840_24.jpg"}, {"annotations": [{"xmin": 284, "ymin": 139, "xmax": 609, "ymax": 524}], "class": "nospill", "file": "cup_data/nospill/2019-06-11-171840_17.jpg"}, {"annotations": [{"xmin": 730, "ymin": 109, "xmax": 1007, "ymax": 457}], "class": "nospill", "file": "cup_data/nospill/2019-06-11-171840_23.jpg"}, {"annotations": [{"xmin": 584, "ymin": 97, "xmax": 864, "ymax": 517}], "class": "nospill", "file": "cup_data/nospill/2019-06-11-171840_11.jpg"}, {"annotations": [{"xmin": 538, "ymin": 135, "xmax": 844, "ymax": 472}], "class": "nospill", "file": "cup_data/nospill/2019-06-11-171840_29.jpg"}, {"annotations": [{"xmin": 419, "ymin": 219, "xmax": 740, "ymax": 618}], "class": "nospill", "file": "cup_data/nospill/2019-06-11-171840_5.jpg"}, {"annotations": [{"xmin": 373, "ymin": 158, "xmax": 693, "ymax": 522}], "class": "nospill", "file": "cup_data/nospill/2019-06-11-171840_14.jpg"}, {"annotations": [{"xmin": 666, "ymin": 127, "xmax": 947, "ymax": 498}], "class": "nospill", "file": "cup_data/nospill/2019-06-11-171840_21.jpg"}, {"annotations": [{"xmin": 518, "ymin": 185, "xmax": 837, "ymax": 623}], "class": "nospill", "file": "cup_data/nospill/2019-06-11-171840_6.jpg"}, {"annotations": [{"xmin": 573, "ymin": 84, "xmax": 851, "ymax": 469}], "class": "nospill", "file": "cup_data/nospill/2019-06-11-171840_28.jpg"}, {"annotations": [{"xmin": 514, "ymin": 112, "xmax": 780, "ymax": 429}], "class": "nospill", "file": "cup_data/nospill/2019-06-11-171840_12.jpg"}, {"annotations": [{"xmin": 659, "ymin": 137, "xmax": 949, "ymax": 488}], "class": "nospill", "file": "cup_data/nospill/2019-06-11-171840_20.jpg"}, {"annotations": [{"xmin": 491, "ymin": 149, "xmax": 799, "ymax": 557}], "class": "nospill", "file": "cup_data/nospill/2019-06-11-171840_4.jpg"}, {"annotations": [{"xmin": 483, "ymin": 142, "xmax": 770, "ymax": 516}], "class": "nospill", "file": "cup_data/nospill/2019-06-11-171840_10.jpg"}, {"annotations": [{"xmin": 473, "ymin": 133, "xmax": 766, "ymax": 495}], "class": "nospill", "file": "cup_data/nospill/2019-06-11-171840_19.jpg"}, {"annotations": [{"xmin": 696, "ymin": 88, "xmax": 966, "ymax": 431}], "class": "nospill", "file": "cup_data/nospill/2019-06-11-171840_7.jpg"}, {"annotations": [{"xmin": 757, "ymin": 140, "xmax": 1055, "ymax": 511}], "class": "nospill", "file": "cup_data/nospill/2019-06-11-171840_30.jpg"}, {"annotations": [{"xmin": 618, "ymin": 154, "xmax": 928, "ymax": 573}], "class": "nospill", "file": "cup_data/nospill/2019-06-11-171840_3.jpg"}, {"annotations": [{"xmin": 574, "ymin": 169, "xmax": 874, "ymax": 577}], "class": "nospill", "file": "cup_data/nospill/2019-06-11-171840_1.jpg"}, {"annotations": [{"xmin": 727, "ymin": 127, "xmax": 1002, "ymax": 487}], "class": "nospill", "file": "cup_data/nospill/2019-06-11-171840_26.jpg"}, {"annotations": [{"xmin": 484, "ymin": 134, "xmax": 759, "ymax": 497}], "class": "nospill", "file": "cup_data/nospill/2019-06-11-171840_18.jpg"}, {"annotations": [{"xmin": 452, "ymin": 168, "xmax": 745, "ymax": 524}], "class": "nospill", "file": "cup_data/nospill/2019-06-11-171840_9.jpg"}, {"annotations": [{"xmin": 463, "ymin": 150, "xmax": 787, "ymax": 530}], "class": "nospill", "file": "cup_data/nospill/2019-06-11-171840_15.jpg"}, {"annotations": [{"xmin": 557, "ymin": 128, "xmax": 841, "ymax": 496}], "class": "nospill", "file": "cup_data/nospill/2019-06-11-171840_8.jpg"}, {"annotations": [{"xmin": 544, "ymin": 48, "xmax": 799, "ymax": 372}], "class": "nospill", "file": "cup_data/nospill/2019-06-11-171840_27.jpg"}, {"annotations": [{"xmin": 704, "ymin": 122, "xmax": 1006, "ymax": 508}], "class": "nospill", "file": "cup_data/nospill/2019-06-11-171840_13.jpg"}, {"annotations": [{"xmin": 611, "ymin": 198, "xmax": 954, "ymax": 614}], "class": "nospill", "file": "cup_data/nospill/2019-06-11-171622.jpg"}]
+[
+    {
+        "annotations": [
+            {
+                "xmin": 629,
+                "ymin": 170,
+                "xmax": 934,
+                "ymax": 444
+            }
+        ],
+        "class": "spill",
+        "file": "cup_data/spill/2019-06-11-171929_1.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "xmin": 274,
+                "ymin": 70,
+                "xmax": 594,
+                "ymax": 362
+            }
+        ],
+        "class": "spill",
+        "file": "cup_data/spill/2019-06-11-171929_19.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "xmin": 720,
+                "ymin": 70,
+                "xmax": 1059,
+                "ymax": 375
+            }
+        ],
+        "class": "spill",
+        "file": "cup_data/spill/2019-06-11-171929_26.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "xmin": 363,
+                "ymin": 53,
+                "xmax": 750,
+                "ymax": 371
+            }
+        ],
+        "class": "spill",
+        "file": "cup_data/spill/2019-06-11-171929_9.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "xmin": 444,
+                "ymin": 75,
+                "xmax": 807,
+                "ymax": 367
+            }
+        ],
+        "class": "spill",
+        "file": "cup_data/spill/2019-06-11-171929_13.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "xmin": 407,
+                "ymin": 186,
+                "xmax": 730,
+                "ymax": 491
+            }
+        ],
+        "class": "spill",
+        "file": "cup_data/spill/2019-06-11-171929_4.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "xmin": 693,
+                "ymin": 110,
+                "xmax": 1037,
+                "ymax": 351
+            }
+        ],
+        "class": "spill",
+        "file": "cup_data/spill/2019-06-11-171929_12.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "xmin": 237,
+                "ymin": 58,
+                "xmax": 617,
+                "ymax": 379
+            }
+        ],
+        "class": "spill",
+        "file": "cup_data/spill/2019-06-11-171929_25.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "xmin": 611,
+                "ymin": 29,
+                "xmax": 953,
+                "ymax": 296
+            }
+        ],
+        "class": "spill",
+        "file": "cup_data/spill/2019-06-11-171929_18.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "xmin": 594,
+                "ymin": 92,
+                "xmax": 988,
+                "ymax": 366
+            }
+        ],
+        "class": "spill",
+        "file": "cup_data/spill/2019-06-11-171929_20.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "xmin": 515,
+                "ymin": 135,
+                "xmax": 767,
+                "ymax": 475
+            }
+        ],
+        "class": "spill",
+        "file": "cup_data/spill/2019-06-11-171929_16.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "xmin": 615,
+                "ymin": 100,
+                "xmax": 967,
+                "ymax": 387
+            }
+        ],
+        "class": "spill",
+        "file": "cup_data/spill/2019-06-11-171929_29.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "xmin": 411,
+                "ymin": 180,
+                "xmax": 738,
+                "ymax": 459
+            }
+        ],
+        "class": "spill",
+        "file": "cup_data/spill/2019-06-11-171929_3.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "xmin": 440,
+                "ymin": 56,
+                "xmax": 783,
+                "ymax": 329
+            }
+        ],
+        "class": "spill",
+        "file": "cup_data/spill/2019-06-11-171929_24.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "xmin": 224,
+                "ymin": 41,
+                "xmax": 592,
+                "ymax": 397
+            }
+        ],
+        "class": "spill",
+        "file": "cup_data/spill/2019-06-11-171929_28.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "xmin": 527,
+                "ymin": 144,
+                "xmax": 786,
+                "ymax": 481
+            }
+        ],
+        "class": "spill",
+        "file": "cup_data/spill/2019-06-11-171929_15.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "xmin": 659,
+                "ymin": 154,
+                "xmax": 993,
+                "ymax": 391
+            }
+        ],
+        "class": "spill",
+        "file": "cup_data/spill/2019-06-11-171929_14.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "xmin": 281,
+                "ymin": 133,
+                "xmax": 644,
+                "ymax": 367
+            }
+        ],
+        "class": "spill",
+        "file": "cup_data/spill/2019-06-11-171929_11.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "xmin": 637,
+                "ymin": 165,
+                "xmax": 1013,
+                "ymax": 373
+            }
+        ],
+        "class": "spill",
+        "file": "cup_data/spill/2019-06-11-171929_10.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "xmin": 584,
+                "ymin": 90,
+                "xmax": 881,
+                "ymax": 369
+            }
+        ],
+        "class": "spill",
+        "file": "cup_data/spill/2019-06-11-171929_7.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "xmin": 606,
+                "ymin": 52,
+                "xmax": 913,
+                "ymax": 307
+            }
+        ],
+        "class": "spill",
+        "file": "cup_data/spill/2019-06-11-171929_21.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "xmin": 441,
+                "ymin": 159,
+                "xmax": 754,
+                "ymax": 438
+            }
+        ],
+        "class": "spill",
+        "file": "cup_data/spill/2019-06-11-171929_2.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "xmin": 485,
+                "ymin": 16,
+                "xmax": 736,
+                "ymax": 233
+            }
+        ],
+        "class": "spill",
+        "file": "cup_data/spill/2019-06-11-171929_6.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "xmin": 680,
+                "ymin": 73,
+                "xmax": 1028,
+                "ymax": 317
+            }
+        ],
+        "class": "spill",
+        "file": "cup_data/spill/2019-06-11-171929_30.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "xmin": 518,
+                "ymin": 121,
+                "xmax": 844,
+                "ymax": 396
+            }
+        ],
+        "class": "spill",
+        "file": "cup_data/spill/2019-06-11-171929_17.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "xmin": 194,
+                "ymin": 111,
+                "xmax": 530,
+                "ymax": 381
+            }
+        ],
+        "class": "spill",
+        "file": "cup_data/spill/2019-06-11-171929_8.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "xmin": 126,
+                "ymin": 28,
+                "xmax": 471,
+                "ymax": 366
+            }
+        ],
+        "class": "spill",
+        "file": "cup_data/spill/2019-06-11-171929_22.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "xmin": 388,
+                "ymin": 246,
+                "xmax": 728,
+                "ymax": 542
+            }
+        ],
+        "class": "spill",
+        "file": "cup_data/spill/2019-06-11-171929_5.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "xmin": 450,
+                "ymin": 52,
+                "xmax": 771,
+                "ymax": 357
+            }
+        ],
+        "class": "spill",
+        "file": "cup_data/spill/2019-06-11-171929_27.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "xmin": 644,
+                "ymin": 72,
+                "xmax": 1064,
+                "ymax": 349
+            }
+        ],
+        "class": "spill",
+        "file": "cup_data/spill/2019-06-11-171929_23.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "xmin": 402,
+                "ymin": 129,
+                "xmax": 682,
+                "ymax": 487
+            }
+        ],
+        "class": "nospill",
+        "file": "cup_data/nospill/2019-06-11-171840_22.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "xmin": 514,
+                "ymin": 183,
+                "xmax": 817,
+                "ymax": 557
+            }
+        ],
+        "class": "nospill",
+        "file": "cup_data/nospill/2019-06-11-171840_25.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "xmin": 609,
+                "ymin": 52,
+                "xmax": 880,
+                "ymax": 441
+            }
+        ],
+        "class": "nospill",
+        "file": "cup_data/nospill/2019-06-11-171840_16.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "xmin": 573,
+                "ymin": 161,
+                "xmax": 886,
+                "ymax": 587
+            }
+        ],
+        "class": "nospill",
+        "file": "cup_data/nospill/2019-06-11-171840_2.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "xmin": 335,
+                "ymin": 103,
+                "xmax": 623,
+                "ymax": 483
+            }
+        ],
+        "class": "nospill",
+        "file": "cup_data/nospill/2019-06-11-171840_24.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "xmin": 284,
+                "ymin": 139,
+                "xmax": 609,
+                "ymax": 524
+            }
+        ],
+        "class": "nospill",
+        "file": "cup_data/nospill/2019-06-11-171840_17.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "xmin": 730,
+                "ymin": 109,
+                "xmax": 1007,
+                "ymax": 457
+            }
+        ],
+        "class": "nospill",
+        "file": "cup_data/nospill/2019-06-11-171840_23.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "xmin": 584,
+                "ymin": 97,
+                "xmax": 864,
+                "ymax": 517
+            }
+        ],
+        "class": "nospill",
+        "file": "cup_data/nospill/2019-06-11-171840_11.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "xmin": 538,
+                "ymin": 135,
+                "xmax": 844,
+                "ymax": 472
+            }
+        ],
+        "class": "nospill",
+        "file": "cup_data/nospill/2019-06-11-171840_29.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "xmin": 419,
+                "ymin": 219,
+                "xmax": 740,
+                "ymax": 618
+            }
+        ],
+        "class": "nospill",
+        "file": "cup_data/nospill/2019-06-11-171840_5.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "xmin": 373,
+                "ymin": 158,
+                "xmax": 693,
+                "ymax": 522
+            }
+        ],
+        "class": "nospill",
+        "file": "cup_data/nospill/2019-06-11-171840_14.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "xmin": 666,
+                "ymin": 127,
+                "xmax": 947,
+                "ymax": 498
+            }
+        ],
+        "class": "nospill",
+        "file": "cup_data/nospill/2019-06-11-171840_21.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "xmin": 518,
+                "ymin": 185,
+                "xmax": 837,
+                "ymax": 623
+            }
+        ],
+        "class": "nospill",
+        "file": "cup_data/nospill/2019-06-11-171840_6.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "xmin": 573,
+                "ymin": 84,
+                "xmax": 851,
+                "ymax": 469
+            }
+        ],
+        "class": "nospill",
+        "file": "cup_data/nospill/2019-06-11-171840_28.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "xmin": 514,
+                "ymin": 112,
+                "xmax": 780,
+                "ymax": 429
+            }
+        ],
+        "class": "nospill",
+        "file": "cup_data/nospill/2019-06-11-171840_12.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "xmin": 659,
+                "ymin": 137,
+                "xmax": 949,
+                "ymax": 488
+            }
+        ],
+        "class": "nospill",
+        "file": "cup_data/nospill/2019-06-11-171840_20.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "xmin": 491,
+                "ymin": 149,
+                "xmax": 799,
+                "ymax": 557
+            }
+        ],
+        "class": "nospill",
+        "file": "cup_data/nospill/2019-06-11-171840_4.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "xmin": 483,
+                "ymin": 142,
+                "xmax": 770,
+                "ymax": 516
+            }
+        ],
+        "class": "nospill",
+        "file": "cup_data/nospill/2019-06-11-171840_10.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "xmin": 473,
+                "ymin": 133,
+                "xmax": 766,
+                "ymax": 495
+            }
+        ],
+        "class": "nospill",
+        "file": "cup_data/nospill/2019-06-11-171840_19.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "xmin": 696,
+                "ymin": 88,
+                "xmax": 966,
+                "ymax": 431
+            }
+        ],
+        "class": "nospill",
+        "file": "cup_data/nospill/2019-06-11-171840_7.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "xmin": 757,
+                "ymin": 140,
+                "xmax": 1055,
+                "ymax": 511
+            }
+        ],
+        "class": "nospill",
+        "file": "cup_data/nospill/2019-06-11-171840_30.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "xmin": 618,
+                "ymin": 154,
+                "xmax": 928,
+                "ymax": 573
+            }
+        ],
+        "class": "nospill",
+        "file": "cup_data/nospill/2019-06-11-171840_3.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "xmin": 574,
+                "ymin": 169,
+                "xmax": 874,
+                "ymax": 577
+            }
+        ],
+        "class": "nospill",
+        "file": "cup_data/nospill/2019-06-11-171840_1.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "xmin": 727,
+                "ymin": 127,
+                "xmax": 1002,
+                "ymax": 487
+            }
+        ],
+        "class": "nospill",
+        "file": "cup_data/nospill/2019-06-11-171840_26.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "xmin": 484,
+                "ymin": 134,
+                "xmax": 759,
+                "ymax": 497
+            }
+        ],
+        "class": "nospill",
+        "file": "cup_data/nospill/2019-06-11-171840_18.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "xmin": 452,
+                "ymin": 168,
+                "xmax": 745,
+                "ymax": 524
+            }
+        ],
+        "class": "nospill",
+        "file": "cup_data/nospill/2019-06-11-171840_9.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "xmin": 463,
+                "ymin": 150,
+                "xmax": 787,
+                "ymax": 530
+            }
+        ],
+        "class": "nospill",
+        "file": "cup_data/nospill/2019-06-11-171840_15.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "xmin": 557,
+                "ymin": 128,
+                "xmax": 841,
+                "ymax": 496
+            }
+        ],
+        "class": "nospill",
+        "file": "cup_data/nospill/2019-06-11-171840_8.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "xmin": 544,
+                "ymin": 48,
+                "xmax": 799,
+                "ymax": 372
+            }
+        ],
+        "class": "nospill",
+        "file": "cup_data/nospill/2019-06-11-171840_27.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "xmin": 704,
+                "ymin": 122,
+                "xmax": 1006,
+                "ymax": 508
+            }
+        ],
+        "class": "nospill",
+        "file": "cup_data/nospill/2019-06-11-171840_13.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "xmin": 611,
+                "ymin": 198,
+                "xmax": 954,
+                "ymax": 614
+            }
+        ],
+        "class": "nospill",
+        "file": "cup_data/nospill/2019-06-11-171622.jpg"
+    }
+]
